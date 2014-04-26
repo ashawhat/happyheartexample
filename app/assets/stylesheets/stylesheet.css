@@ -1,0 +1,22 @@
+.title{
+	/*margin-left: 150px;*/
+}
+
+.jumbotron{
+	/*position: absolute;*/
+}
+.jumbotron img {
+	max-width: 100%;
+	margin: 0 auto;
+}
+
+.jumbotron .center{
+	/*text-align: center;*/
+}
+
+.navbar-brand{
+	padding left: 20px;
+}
+
+.navbar-right{
+}
